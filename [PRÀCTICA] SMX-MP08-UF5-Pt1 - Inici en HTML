@@ -1,0 +1,31 @@
+ <!DOCTYPE html>
+   <html lang="es">
+   <head> 
+           <title>FIFA22</title>
+           <meta charset="utf-8">
+                <meta name="author" content="Ruben Cifuentes">
+                <meta name="description" content="El mejor juego">
+                <link rel="shortcurt icon" href="pelota.png" type="image/x-icon">
+                <link rel="stylesheet" href="style.css">
+                <script src="script.js" defer></script>
+   </head> 
+   <body>
+                <h1>FIFA22⚽️</h1>
+                <h2>El mejor juego </h2>
+                <h2>A que esperas?</h2>
+                <p>Descarga esta app &quot;La mejor del mundo&quot;</p>
+                <mark>App FIFA22</mark>
+                <p><a href="https://www.ea.com/es-es/fifa/ultimate-team/web-app/">Enlace fifa</a><p>
+                <img src="https://image.api.playstation.com/vulcan/img/rnd/202109/0711/Ll6cMbKafPkcFD80tuy0BDGA.png">
+                <!-- <p>!Cambiar titulo!</p> -->
+   </body>
+   
+      
+           
+           
+           
+           
+           
+           
+           
+
